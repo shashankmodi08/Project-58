@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background-color: orangered;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+
+h1 {
+    color: darkgreen;
+    font-size: 20px;
+}
+
+
+p {
+    font-size: 25px;
+    font-family: 'Sriracha', cursive;
+    color: black;
+
+
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+#img1 {
+    width: 200px;
+}
+
+.menu {
+
+    list-style: none;
+    font-family: sans-serif;
+    float:right;
+    top: 10px;
+    right: 30px;
+    color:black;
+    cursor: pointer;
+    
+}
+.link:hover {
+    background-color: dodgerblue;
+
+}
+
